@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanbilgili&show_icons=true&locale=en&layout=compact" alt="ozanbilgili" /></p>
 
+<p></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanbilgili&show_icons=true&locale=en" alt="ozanbilgili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozanbilgili&" alt="ozanbilgili" /></p>
