@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Softtech**
 
-- 🌱 I’m currently learning **Swift Based AI**
+- 🌱 I’m currently learning **Swift UI**
 
 - 📫 How to reach me **ozan.bilgili@hotmail.com**
 
