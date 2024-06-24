@@ -7,8 +7,5 @@
 
 - 📫 How to reach me **ozan.bilgili@hotmail.com**
 
-![ozanbilgili's Stats](https://github-readme-stats.vercel.app/api?username=ozanbilgili&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![ozanbilgili's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozanbilgili&theme=dark&hide_border=true)
-
+![ozanbilgili's Stats](https://github-readme-stats.vercel.app/api?username=ozanbilgili&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ozanbilgili's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ozanbilgili&theme=dark&hide_border=true)
 ![ozanbilgili's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozanbilgili&theme=dark&show_icons=true&hide_border=true&layout=compact)
